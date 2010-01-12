@@ -1,5 +1,6 @@
 === Plugin Name ===
 Contributors: Abhinandan Bharti
+Donation: bharti.abhi@gmail.com
 Tags: reddit, button
 Requires at least: 2.0.2
 Tested up to: 2.9.1

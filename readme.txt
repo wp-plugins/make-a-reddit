@@ -4,7 +4,7 @@ Donation: bharti.abhi@gmail.com
 Tags: reddit, button
 Requires at least: 2.0.2
 Tested up to: 2.9.1
-Stable tag: trunk
+Stable tag: 1.0
 
 Adds a reddit button to blog post, pages, home and anywhere.
 
